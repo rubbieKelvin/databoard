@@ -1,20 +1,24 @@
-export interface DataType {
+import * as constants from "./constants"
 
+export interface DataSource {
+  get: () => Promise<Response>;
+  set?: () => Promise<Response>;
 }
 
 export interface DataKey {
     name: string;
-    type?: DataType;
+    type?: constants.DataType;
     alias?: string;
     default?: any;
 }
 
-export interface DataBookInput {
-  name: string;
-  datasource: string;
-}
-
 export interface DataBook {
   name: string;
-  getData: () => Promise<Response>;
+  datasource: DataSource;
+  displaytype?: constants.DisplayType;
+}
+
+export interface Project {
+  name: string,
+  pages: DataBook[],
 }
