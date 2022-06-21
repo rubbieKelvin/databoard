@@ -1,0 +1,1808 @@
+{
+    "balance": 2000.0,
+    "profit": 5304686.883724782,
+    "totalbalace": 5306686.883724782,
+    "transactions": [
+      {
+        "time": "2022-06-19 23:23:16.015245",
+        "amount": -20.0,
+        "node": "88c73ea3-ebc5-48ab-88f6-47dd52b704c9",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:17.020920",
+        "amount": -20.0,
+        "node": "136ff0f8-7d8f-4fbb-ba9a-e8b868c2d486",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:18.025304",
+        "amount": 20.0,
+        "node": "558867b4-1321-4ec4-b304-eadd3e27fabe",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:18.025331",
+        "amount": 102.91155466031861,
+        "node": "558867b4-1321-4ec4-b304-eadd3e27fabe",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:18.025481",
+        "amount": -20.0,
+        "node": "558867b4-1321-4ec4-b304-eadd3e27fabe",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:19.031320",
+        "amount": -20.0,
+        "node": "2a77e043-18bd-42e4-a71b-c8d331af5ff7",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:20.039150",
+        "amount": -20.0,
+        "node": "1ac52dd7-255e-4dc4-8ae6-4cd2fca20146",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:21.045060",
+        "amount": -20.0,
+        "node": "75c96e78-8e30-4ce7-9797-0d9a87482337",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:22.050947",
+        "amount": -20.0,
+        "node": "b3fd94f0-0638-41a8-bc43-6508364503d8",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:23.056764",
+        "amount": -20.0,
+        "node": "dd2b6685-5d20-4a9d-9be3-17c7c7f09bef",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:24.063000",
+        "amount": -20.0,
+        "node": "93b57b01-3faa-4188-90fb-afd239c4e6eb",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:25.068921",
+        "amount": -20.0,
+        "node": "3b8a5a9e-bc51-4f71-838a-a4361c46b079",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:26.074871",
+        "amount": -20.0,
+        "node": "6ee7c618-6def-4e6a-9ea6-50fe4ff6da7a",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:27.077166",
+        "amount": -20.0,
+        "node": "266c56ee-305d-4e02-8940-45e632eb631e",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:28.082934",
+        "amount": -20.0,
+        "node": "118a7f0f-e5ec-403a-88ab-7c07d809c2ea",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:29.084152",
+        "amount": -20.0,
+        "node": "d01f5b5d-8b36-4a81-9a02-f700bd3c5c1b",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:30.090278",
+        "amount": -20.0,
+        "node": "06b69272-9040-4968-96ad-c8737e18a3ec",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:31.096150",
+        "amount": -20.0,
+        "node": "1a1c84fc-0fed-41c9-baf8-9720293a7c42",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:32.101952",
+        "amount": -20.0,
+        "node": "9daabc63-c96b-4192-a191-a78a9a792098",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:33.107774",
+        "amount": -20.0,
+        "node": "55790851-0112-4db4-a248-b08cb3d7ff95",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:34.089463",
+        "amount": 20.0,
+        "node": "d01f5b5d-8b36-4a81-9a02-f700bd3c5c1b",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:34.089480",
+        "amount": 554.5986910093008,
+        "node": "d01f5b5d-8b36-4a81-9a02-f700bd3c5c1b",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:34.113691",
+        "amount": -20.0,
+        "node": "5013c696-8b62-4b2c-8b4e-eb2546402b6e",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:35.095623",
+        "amount": 20.0,
+        "node": "06b69272-9040-4968-96ad-c8737e18a3ec",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:35.095639",
+        "amount": 499.31344401448007,
+        "node": "06b69272-9040-4968-96ad-c8737e18a3ec",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:35.119640",
+        "amount": -20.0,
+        "node": "5a68088e-9b23-4ed4-af50-80f1f8423043",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:36.097616",
+        "amount": 20.0,
+        "node": "1a1c84fc-0fed-41c9-baf8-9720293a7c42",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:36.097631",
+        "amount": 680.5187930121758,
+        "node": "1a1c84fc-0fed-41c9-baf8-9720293a7c42",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:36.125334",
+        "amount": -20.0,
+        "node": "9cffa9b2-06ca-4ce6-b582-67040ef82a62",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:37.107051",
+        "amount": 20.0,
+        "node": "9daabc63-c96b-4192-a191-a78a9a792098",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:37.107067",
+        "amount": 334.65300419189566,
+        "node": "9daabc63-c96b-4192-a191-a78a9a792098",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:37.131071",
+        "amount": -20.0,
+        "node": "133e1ee6-439b-4bda-b647-83a95490a3a1",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:38.137194",
+        "amount": -20.0,
+        "node": "e3c623bc-ac78-4de0-995f-5eaeccc8964e",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:39.138894",
+        "amount": -20.0,
+        "node": "34da3a05-c604-4df3-9ee1-e45bb70cc9a7",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:40.124817",
+        "amount": 20.0,
+        "node": "5a68088e-9b23-4ed4-af50-80f1f8423043",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:40.124832",
+        "amount": 254.51451262172637,
+        "node": "5a68088e-9b23-4ed4-af50-80f1f8423043",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:40.139505",
+        "amount": -20.0,
+        "node": "16f2a10e-6a13-4ef7-a231-5068fb54e65d",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:41.077081",
+        "amount": 20.0,
+        "node": "6ee7c618-6def-4e6a-9ea6-50fe4ff6da7a",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:41.077100",
+        "amount": 168.25837819065808,
+        "node": "6ee7c618-6def-4e6a-9ea6-50fe4ff6da7a",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:41.129403",
+        "amount": 20.0,
+        "node": "9cffa9b2-06ca-4ce6-b582-67040ef82a62",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:41.129421",
+        "amount": 483.5164835164835,
+        "node": "9cffa9b2-06ca-4ce6-b582-67040ef82a62",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:41.141184",
+        "amount": -20.0,
+        "node": "203bcc65-4e1d-4b88-8558-047eb4a440e9",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:42.090679",
+        "amount": 20.0,
+        "node": "266c56ee-305d-4e02-8940-45e632eb631e",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:42.090696",
+        "amount": 187.51854415982592,
+        "node": "266c56ee-305d-4e02-8940-45e632eb631e",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:42.136084",
+        "amount": 20.0,
+        "node": "133e1ee6-439b-4bda-b647-83a95490a3a1",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:42.136104",
+        "amount": 238.8410336726703,
+        "node": "133e1ee6-439b-4bda-b647-83a95490a3a1",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:42.141951",
+        "amount": 20.0,
+        "node": "2261d04b-2c1e-4aa1-a117-53875732a277",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:42.141963",
+        "amount": 137.4376353195896,
+        "node": "2261d04b-2c1e-4aa1-a117-53875732a277",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:42.142055",
+        "amount": -20.0,
+        "node": "2261d04b-2c1e-4aa1-a117-53875732a277",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:43.091136",
+        "amount": 20.0,
+        "node": "118a7f0f-e5ec-403a-88ab-7c07d809c2ea",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:43.091152",
+        "amount": 104.5361209632257,
+        "node": "118a7f0f-e5ec-403a-88ab-7c07d809c2ea",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:43.112497",
+        "amount": 20.0,
+        "node": "55790851-0112-4db4-a248-b08cb3d7ff95",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:43.112632",
+        "amount": 237.3486802937091,
+        "node": "55790851-0112-4db4-a248-b08cb3d7ff95",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:43.141934",
+        "amount": 20.0,
+        "node": "e3c623bc-ac78-4de0-995f-5eaeccc8964e",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:43.141953",
+        "amount": 184.60402436773123,
+        "node": "e3c623bc-ac78-4de0-995f-5eaeccc8964e",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:43.145404",
+        "amount": -20.0,
+        "node": "26bad765-78a8-4112-906b-92dd914435d9",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:44.121446",
+        "amount": 20.0,
+        "node": "5013c696-8b62-4b2c-8b4e-eb2546402b6e",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:44.121461",
+        "amount": 175.87641117052883,
+        "node": "5013c696-8b62-4b2c-8b4e-eb2546402b6e",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:44.144203",
+        "amount": 20.0,
+        "node": "34da3a05-c604-4df3-9ee1-e45bb70cc9a7",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:44.144217",
+        "amount": 239.7553516819572,
+        "node": "34da3a05-c604-4df3-9ee1-e45bb70cc9a7",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:44.149220",
+        "amount": -20.0,
+        "node": "0cbd3c93-3b9e-45d3-98c0-48eb3650dbdf",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:45.153139",
+        "amount": -20.0,
+        "node": "60b011f7-fd1f-44ac-b097-21c6b0be4ada",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:46.158742",
+        "amount": 20.0,
+        "node": "f8b4b02b-f3b3-418f-b4a8-968f07e852a6",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:46.158753",
+        "amount": 144.58021284982263,
+        "node": "f8b4b02b-f3b3-418f-b4a8-968f07e852a6",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:46.158838",
+        "amount": -20.0,
+        "node": "f8b4b02b-f3b3-418f-b4a8-968f07e852a6",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:47.164741",
+        "amount": -20.0,
+        "node": "5ce69b90-2b75-49c5-8eb9-0359c99fd115",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:48.076442",
+        "amount": 20.0,
+        "node": "dd2b6685-5d20-4a9d-9be3-17c7c7f09bef",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:48.076460",
+        "amount": 105.80590478881199,
+        "node": "dd2b6685-5d20-4a9d-9be3-17c7c7f09bef",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:48.147223",
+        "amount": 20.0,
+        "node": "26bad765-78a8-4112-906b-92dd914435d9",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:48.147236",
+        "amount": 540.8215442304415,
+        "node": "26bad765-78a8-4112-906b-92dd914435d9",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:48.165646",
+        "amount": -20.0,
+        "node": "ea5d3d8b-6c0f-4c98-8d84-e07aa6419c7c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:49.081738",
+        "amount": 20.0,
+        "node": "93b57b01-3faa-4188-90fb-afd239c4e6eb",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:49.081752",
+        "amount": 126.48160893171217,
+        "node": "93b57b01-3faa-4188-90fb-afd239c4e6eb",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:49.149527",
+        "amount": 20.0,
+        "node": "0cbd3c93-3b9e-45d3-98c0-48eb3650dbdf",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:49.149539",
+        "amount": 129.4126655946091,
+        "node": "0cbd3c93-3b9e-45d3-98c0-48eb3650dbdf",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:49.166185",
+        "amount": -20.0,
+        "node": "e3a4297a-70af-4049-b0bb-cc53d1390c57",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:50.088651",
+        "amount": 20.0,
+        "node": "3b8a5a9e-bc51-4f71-838a-a4361c46b079",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:50.088674",
+        "amount": 319.52184799289233,
+        "node": "3b8a5a9e-bc51-4f71-838a-a4361c46b079",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:50.144912",
+        "amount": 20.0,
+        "node": "16f2a10e-6a13-4ef7-a231-5068fb54e65d",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:50.144932",
+        "amount": 379.6024490480584,
+        "node": "16f2a10e-6a13-4ef7-a231-5068fb54e65d",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:50.156176",
+        "amount": 20.0,
+        "node": "60b011f7-fd1f-44ac-b097-21c6b0be4ada",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:50.156220",
+        "amount": 275.0293476438034,
+        "node": "60b011f7-fd1f-44ac-b097-21c6b0be4ada",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:50.167584",
+        "amount": -20.0,
+        "node": "5fd3c713-2820-425d-8b04-9813e33ba39c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:51.234613",
+        "amount": 20.0,
+        "node": "203bcc65-4e1d-4b88-8558-047eb4a440e9",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:51.234627",
+        "amount": 294.3478941600125,
+        "node": "203bcc65-4e1d-4b88-8558-047eb4a440e9",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:51.256406",
+        "amount": -20.0,
+        "node": "393e818e-a3bd-4921-8653-d51f8e445b67",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:52.260425",
+        "amount": -20.0,
+        "node": "6219a2df-b03f-456b-aef6-d423c1210f1b",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:53.265774",
+        "amount": -20.0,
+        "node": "189a3a75-d834-40fe-bc24-5d4937200ffb",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:54.249381",
+        "amount": 20.0,
+        "node": "e3a4297a-70af-4049-b0bb-cc53d1390c57",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:54.249394",
+        "amount": 236.23978201634878,
+        "node": "e3a4297a-70af-4049-b0bb-cc53d1390c57",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:54.268468",
+        "amount": -20.0,
+        "node": "1c0186a8-aeeb-4990-9410-1b9a1c2bdaf8",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:55.255946",
+        "amount": 20.0,
+        "node": "5fd3c713-2820-425d-8b04-9813e33ba39c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:23:55.255963",
+        "amount": 343.88201289557543,
+        "node": "5fd3c713-2820-425d-8b04-9813e33ba39c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:23:55.274215",
+        "amount": -20.0,
+        "node": "5fef0f92-5795-4199-83bd-7f539cc8b458",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:56.280212",
+        "amount": -20.0,
+        "node": "db7e2c79-a8d3-40ce-9a8a-a3cd243f7e99",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:57.285888",
+        "amount": -20.0,
+        "node": "4af12500-2876-4c60-86a7-8717026d0156",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:58.291634",
+        "amount": -20.0,
+        "node": "2b3fbb85-0bb0-433b-b42d-b8766f1c8b9b",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:23:59.297585",
+        "amount": -20.0,
+        "node": "c4820985-4395-4fba-a0c1-11d791761b4c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:00.303420",
+        "amount": -20.0,
+        "node": "df01be32-0dd3-42ff-a0ad-2912e55b173f",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:01.309457",
+        "amount": -20.0,
+        "node": "5cb252c5-ab8a-4690-8978-79bb66e81ead",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:02.313356",
+        "amount": -20.0,
+        "node": "8741c7b6-7cb6-4a39-919d-238121dc1f8c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:03.319122",
+        "amount": -20.0,
+        "node": "55519d87-4654-43f2-aad2-b5fe75f00016",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:04.324987",
+        "amount": -20.0,
+        "node": "3d8e6314-c250-4938-8f7d-eeca531363c9",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:05.327371",
+        "amount": 20.0,
+        "node": "f09886f7-24c0-4021-841b-eeb6fa7f075c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:05.327384",
+        "amount": 162.3806024981631,
+        "node": "f09886f7-24c0-4021-841b-eeb6fa7f075c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:05.327489",
+        "amount": -20.0,
+        "node": "f09886f7-24c0-4021-841b-eeb6fa7f075c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:06.333282",
+        "amount": -20.0,
+        "node": "370f2c60-04ac-4cf3-a83c-36aa4fae2ad9",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:07.339059",
+        "amount": -20.0,
+        "node": "e30378f3-3a90-4bcb-bd9a-121367542a53",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:08.344933",
+        "amount": -20.0,
+        "node": "d7165e2f-f75a-4329-b441-1823863a1c4f",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:09.347574",
+        "amount": -20.0,
+        "node": "7968c7a2-f847-45c9-878a-a99b02fdddc5",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:10.348631",
+        "amount": -20.0,
+        "node": "c9d3b6e3-5aea-4616-ab5c-ef873d98d312",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:11.354066",
+        "amount": -20.0,
+        "node": "a49f8037-08e3-4bcf-884e-2c42fb0a6ac0",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:12.359453",
+        "amount": -20.0,
+        "node": "98d9ac6c-372e-47cd-8d08-d1a608f23cff",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:13.365085",
+        "amount": 20.0,
+        "node": "9dd1d151-12d9-4518-98ac-0d5fccd1c28f",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:13.365246",
+        "amount": 237.35136395430172,
+        "node": "9dd1d151-12d9-4518-98ac-0d5fccd1c28f",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:13.365353",
+        "amount": -20.0,
+        "node": "9dd1d151-12d9-4518-98ac-0d5fccd1c28f",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:14.370073",
+        "amount": 20.0,
+        "node": "c88d071f-38ee-4026-8756-743310b83bdf",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:14.370084",
+        "amount": 243.13725490196077,
+        "node": "c88d071f-38ee-4026-8756-743310b83bdf",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:14.370178",
+        "amount": -20.0,
+        "node": "c88d071f-38ee-4026-8756-743310b83bdf",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:15.375635",
+        "amount": -20.0,
+        "node": "0d7817a1-ef99-4cef-a1ad-9924b4158823",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:16.380891",
+        "amount": -20.0,
+        "node": "864d0c92-d595-4051-acbb-7b4cae4ffc3c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:17.385988",
+        "amount": 20.0,
+        "node": "fce4eece-4787-4f57-98df-f5822b280c2b",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:17.386003",
+        "amount": 304.3133103995766,
+        "node": "fce4eece-4787-4f57-98df-f5822b280c2b",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:17.386119",
+        "amount": -20.0,
+        "node": "fce4eece-4787-4f57-98df-f5822b280c2b",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:18.391110",
+        "amount": -20.0,
+        "node": "9fcc6ea0-bc1f-43ae-9317-7cc7e09cfd11",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:19.357935",
+        "amount": 20.0,
+        "node": "7968c7a2-f847-45c9-878a-a99b02fdddc5",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:19.357951",
+        "amount": 1230.2915301017767,
+        "node": "7968c7a2-f847-45c9-878a-a99b02fdddc5",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:19.393487",
+        "amount": -20.0,
+        "node": "2f50ef13-d5e2-4d0c-be45-1f8192a5bbc3",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:20.352508",
+        "amount": 20.0,
+        "node": "c9d3b6e3-5aea-4616-ab5c-ef873d98d312",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:20.352564",
+        "amount": 1207.3192396518032,
+        "node": "c9d3b6e3-5aea-4616-ab5c-ef873d98d312",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:20.380813",
+        "amount": 20.0,
+        "node": "0d7817a1-ef99-4cef-a1ad-9924b4158823",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:20.380831",
+        "amount": 2779.9841143764893,
+        "node": "0d7817a1-ef99-4cef-a1ad-9924b4158823",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:20.397839",
+        "amount": -20.0,
+        "node": "05e6e8fd-06b4-4790-8968-12de54b0661c",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:21.349094",
+        "amount": 20.0,
+        "node": "370f2c60-04ac-4cf3-a83c-36aa4fae2ad9",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:21.349112",
+        "amount": 174.0211311373524,
+        "node": "370f2c60-04ac-4cf3-a83c-36aa4fae2ad9",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:21.364443",
+        "amount": 20.0,
+        "node": "a49f8037-08e3-4bcf-884e-2c42fb0a6ac0",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:21.364460",
+        "amount": 1363.4615384615383,
+        "node": "a49f8037-08e3-4bcf-884e-2c42fb0a6ac0",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:21.384120",
+        "amount": 20.0,
+        "node": "864d0c92-d595-4051-acbb-7b4cae4ffc3c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:21.384140",
+        "amount": 5245000.0,
+        "node": "864d0c92-d595-4051-acbb-7b4cae4ffc3c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:21.403065",
+        "amount": -20.0,
+        "node": "54beb0f7-ed7f-4ab6-b1e6-ee77730bbce4",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:22.355160",
+        "amount": 20.0,
+        "node": "e30378f3-3a90-4bcb-bd9a-121367542a53",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:22.355177",
+        "amount": 1938.3127709236414,
+        "node": "e30378f3-3a90-4bcb-bd9a-121367542a53",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:22.363960",
+        "amount": 20.0,
+        "node": "98d9ac6c-372e-47cd-8d08-d1a608f23cff",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:22.363980",
+        "amount": 3017.929179740027,
+        "node": "98d9ac6c-372e-47cd-8d08-d1a608f23cff",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:22.408686",
+        "amount": -20.0,
+        "node": "b8e4f160-c730-4d55-96a1-a989a6f88ceb",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:23.356000",
+        "amount": 20.0,
+        "node": "d7165e2f-f75a-4329-b441-1823863a1c4f",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:23.356018",
+        "amount": 1716.2574225645963,
+        "node": "d7165e2f-f75a-4329-b441-1823863a1c4f",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:23.395554",
+        "amount": 20.0,
+        "node": "9fcc6ea0-bc1f-43ae-9317-7cc7e09cfd11",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:23.395566",
+        "amount": 1191.6630228829617,
+        "node": "9fcc6ea0-bc1f-43ae-9317-7cc7e09cfd11",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:23.409618",
+        "amount": -20.0,
+        "node": "d12a24b9-8853-401c-9a70-25fd9950f937",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:24.398694",
+        "amount": 20.0,
+        "node": "2f50ef13-d5e2-4d0c-be45-1f8192a5bbc3",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:24.398709",
+        "amount": 621.2669683257918,
+        "node": "2f50ef13-d5e2-4d0c-be45-1f8192a5bbc3",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:24.414859",
+        "amount": -20.0,
+        "node": "7d00a503-473d-4ff0-91e5-ddcab6c84cf7",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:25.401855",
+        "amount": 20.0,
+        "node": "05e6e8fd-06b4-4790-8968-12de54b0661c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:25.401870",
+        "amount": 604.924578527063,
+        "node": "05e6e8fd-06b4-4790-8968-12de54b0661c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:25.420217",
+        "amount": -20.0,
+        "node": "dcad7fab-31d2-44de-ace9-2120d9545738",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:26.425397",
+        "amount": -20.0,
+        "node": "b54438bf-bec0-47ca-8a7b-c44cde5645c4",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:27.430678",
+        "amount": -20.0,
+        "node": "20a2df4f-2f89-4e62-83bc-a0ebc6f3f18e",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:28.435987",
+        "amount": 20.0,
+        "node": "5deaf3c1-9315-4692-9d20-e7cd5510ded5",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:28.436010",
+        "amount": 180.4141804141804,
+        "node": "5deaf3c1-9315-4692-9d20-e7cd5510ded5",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:28.436113",
+        "amount": -20.0,
+        "node": "5deaf3c1-9315-4692-9d20-e7cd5510ded5",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:29.441417",
+        "amount": -20.0,
+        "node": "ee2c962e-8d89-44f6-9f27-209be9f249b1",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:30.442155",
+        "amount": -20.0,
+        "node": "0282dde8-0909-4621-8997-0485ac406917",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:31.442881",
+        "amount": -20.0,
+        "node": "1d3e7ff3-2a13-4bf5-8cec-c5af53a41bbe",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:32.448366",
+        "amount": -20.0,
+        "node": "ba49f7af-1b16-4f1f-9f92-b260c86d7704",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:33.452077",
+        "amount": -20.0,
+        "node": "a99937ad-1089-4f1e-995a-4d4e68bab8e4",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:34.457310",
+        "amount": -20.0,
+        "node": "ee38fdb6-efa1-412f-a74e-3ed11d19e18e",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:35.462592",
+        "amount": 20.0,
+        "node": "73348b1b-6e32-46cd-9936-8f97cfda6938",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:35.462607",
+        "amount": 140.82599864590387,
+        "node": "73348b1b-6e32-46cd-9936-8f97cfda6938",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:35.462720",
+        "amount": -20.0,
+        "node": "73348b1b-6e32-46cd-9936-8f97cfda6938",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:36.466256",
+        "amount": -20.0,
+        "node": "677097b6-5203-4860-ae68-35613f8db944",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:37.469072",
+        "amount": -20.0,
+        "node": "d438e192-a040-4fd0-9b2c-3c8b92bea567",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:38.457269",
+        "amount": 20.0,
+        "node": "a99937ad-1089-4f1e-995a-4d4e68bab8e4",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:38.457315",
+        "amount": 247.3765697574402,
+        "node": "a99937ad-1089-4f1e-995a-4d4e68bab8e4",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:38.474268",
+        "amount": -20.0,
+        "node": "497eb9f9-2954-42a9-a634-c2f248b7ccfb",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:39.462475",
+        "amount": 20.0,
+        "node": "ee38fdb6-efa1-412f-a74e-3ed11d19e18e",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:39.462491",
+        "amount": 743.2009626955476,
+        "node": "ee38fdb6-efa1-412f-a74e-3ed11d19e18e",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:39.479586",
+        "amount": -20.0,
+        "node": "5cef2f15-4d4f-45c2-90d5-b93e61d4db20",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:40.480650",
+        "amount": 20.0,
+        "node": "62c78728-ee3d-4e31-a827-fbfafe7fcb2b",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:40.480666",
+        "amount": 270.50867391943547,
+        "node": "62c78728-ee3d-4e31-a827-fbfafe7fcb2b",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:40.480780",
+        "amount": -20.0,
+        "node": "62c78728-ee3d-4e31-a827-fbfafe7fcb2b",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:41.486636",
+        "amount": -20.0,
+        "node": "8974f14d-1e41-4f3c-88df-cdcae1fa8e10",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:42.492433",
+        "amount": -20.0,
+        "node": "503ece79-4e55-4d32-8ce4-9044ea505dc6",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:43.498268",
+        "amount": 20.0,
+        "node": "2eca43a0-f3e9-48c0-9348-b0491cc11c08",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:43.498292",
+        "amount": 158.95765472312704,
+        "node": "2eca43a0-f3e9-48c0-9348-b0491cc11c08",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:43.498405",
+        "amount": -20.0,
+        "node": "2eca43a0-f3e9-48c0-9348-b0491cc11c08",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:44.504227",
+        "amount": -20.0,
+        "node": "e49f8e98-7015-495f-821a-b02207f1fdd3",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:45.510251",
+        "amount": -20.0,
+        "node": "2f09e6f3-2c18-424f-961f-92c21886d502",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:46.454738",
+        "amount": 20.0,
+        "node": "1d3e7ff3-2a13-4bf5-8cec-c5af53a41bbe",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:46.454753",
+        "amount": 104.62873674059787,
+        "node": "1d3e7ff3-2a13-4bf5-8cec-c5af53a41bbe",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:46.476685",
+        "amount": 20.0,
+        "node": "677097b6-5203-4860-ae68-35613f8db944",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:46.476700",
+        "amount": 252.42453216773666,
+        "node": "677097b6-5203-4860-ae68-35613f8db944",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:46.489672",
+        "amount": 20.0,
+        "node": "8974f14d-1e41-4f3c-88df-cdcae1fa8e10",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:46.489688",
+        "amount": 4535.869996036465,
+        "node": "8974f14d-1e41-4f3c-88df-cdcae1fa8e10",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:46.514205",
+        "amount": 20.0,
+        "node": "7f149f01-2b35-4d48-ab37-948972253574",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:46.514218",
+        "amount": 163.1820499745028,
+        "node": "7f149f01-2b35-4d48-ab37-948972253574",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:46.514314",
+        "amount": -20.0,
+        "node": "7f149f01-2b35-4d48-ab37-948972253574",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:47.451530",
+        "amount": 20.0,
+        "node": "ba49f7af-1b16-4f1f-9f92-b260c86d7704",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:47.451548",
+        "amount": 548.8919882225322,
+        "node": "ba49f7af-1b16-4f1f-9f92-b260c86d7704",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:47.472652",
+        "amount": 20.0,
+        "node": "d438e192-a040-4fd0-9b2c-3c8b92bea567",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:47.472670",
+        "amount": 168.63944673493816,
+        "node": "d438e192-a040-4fd0-9b2c-3c8b92bea567",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:47.493994",
+        "amount": 20.0,
+        "node": "503ece79-4e55-4d32-8ce4-9044ea505dc6",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:47.494007",
+        "amount": 3437.543614794138,
+        "node": "503ece79-4e55-4d32-8ce4-9044ea505dc6",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:47.515574",
+        "amount": -20.0,
+        "node": "8a12fe30-9cc7-4f5c-bae0-e3ecd730dcf4",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:48.480010",
+        "amount": 20.0,
+        "node": "497eb9f9-2954-42a9-a634-c2f248b7ccfb",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:48.480073",
+        "amount": 904.9787492410444,
+        "node": "497eb9f9-2954-42a9-a634-c2f248b7ccfb",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:48.519510",
+        "amount": -20.0,
+        "node": "3e891f84-ef2c-4054-857d-670d3f71f6ae",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:49.479965",
+        "amount": 20.0,
+        "node": "5cef2f15-4d4f-45c2-90d5-b93e61d4db20",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:49.479984",
+        "amount": 444.04153617933076,
+        "node": "5cef2f15-4d4f-45c2-90d5-b93e61d4db20",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:49.504288",
+        "amount": 20.0,
+        "node": "e49f8e98-7015-495f-821a-b02207f1fdd3",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:49.504309",
+        "amount": 2097.1264367816093,
+        "node": "e49f8e98-7015-495f-821a-b02207f1fdd3",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:49.522873",
+        "amount": -20.0,
+        "node": "b8c0cf2c-bece-4a53-b329-bc40e610f31e",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:50.515446",
+        "amount": 20.0,
+        "node": "2f09e6f3-2c18-424f-961f-92c21886d502",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:50.515465",
+        "amount": 109.15166140709115,
+        "node": "2f09e6f3-2c18-424f-961f-92c21886d502",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:50.528724",
+        "amount": -20.0,
+        "node": "58f457e7-e753-4275-9215-fb08713cda07",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:51.534691",
+        "amount": -20.0,
+        "node": "08d59523-5bbe-4dac-af14-6999ab6051df",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:52.540616",
+        "amount": -20.0,
+        "node": "6076239f-2df4-4d21-84da-c7689394a944",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:53.542677",
+        "amount": 20.0,
+        "node": "9acc9461-c57c-429b-b6a4-cb84b6e93dcd",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:53.542689",
+        "amount": 244.24424424424421,
+        "node": "9acc9461-c57c-429b-b6a4-cb84b6e93dcd",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:53.542803",
+        "amount": -20.0,
+        "node": "9acc9461-c57c-429b-b6a4-cb84b6e93dcd",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:54.548566",
+        "amount": -20.0,
+        "node": "8c9ba1f3-8ba6-4ce1-821e-4e4e062f1e12",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:55.551782",
+        "amount": -20.0,
+        "node": "239b132f-0135-473e-8964-f24f981a670f",
+        "descr": "removed money from account"
+      },
+      {
+        "time": "2022-06-19 23:24:56.536419",
+        "amount": 20.0,
+        "node": "08d59523-5bbe-4dac-af14-6999ab6051df",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:56.536433",
+        "amount": 125.10509500588532,
+        "node": "08d59523-5bbe-4dac-af14-6999ab6051df",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:57.526374",
+        "amount": 20.0,
+        "node": "8a12fe30-9cc7-4f5c-bae0-e3ecd730dcf4",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:57.526389",
+        "amount": 137.9397942334561,
+        "node": "8a12fe30-9cc7-4f5c-bae0-e3ecd730dcf4",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:57.545549",
+        "amount": 20.0,
+        "node": "6076239f-2df4-4d21-84da-c7689394a944",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:57.545565",
+        "amount": 4089.72503617945,
+        "node": "6076239f-2df4-4d21-84da-c7689394a944",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:59.533565",
+        "amount": 20.0,
+        "node": "b8c0cf2c-bece-4a53-b329-bc40e610f31e",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:59.533583",
+        "amount": 283.5565688230265,
+        "node": "b8c0cf2c-bece-4a53-b329-bc40e610f31e",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:24:59.549095",
+        "amount": 20.0,
+        "node": "8c9ba1f3-8ba6-4ce1-821e-4e4e062f1e12",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:24:59.549113",
+        "amount": 2218.9672293942403,
+        "node": "8c9ba1f3-8ba6-4ce1-821e-4e4e062f1e12",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:00.536395",
+        "amount": 20.0,
+        "node": "58f457e7-e753-4275-9215-fb08713cda07",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:00.536417",
+        "amount": 1268.3961494534183,
+        "node": "58f457e7-e753-4275-9215-fb08713cda07",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:00.554585",
+        "amount": 20.0,
+        "node": "239b132f-0135-473e-8964-f24f981a670f",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:00.554602",
+        "amount": 1365.3546037801284,
+        "node": "239b132f-0135-473e-8964-f24f981a670f",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:03.535877",
+        "amount": 20.0,
+        "node": "3e891f84-ef2c-4054-857d-670d3f71f6ae",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:03.535894",
+        "amount": 313.9216386804811,
+        "node": "3e891f84-ef2c-4054-857d-670d3f71f6ae",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:04.472852",
+        "amount": 20.0,
+        "node": "ee2c962e-8d89-44f6-9f27-209be9f249b1",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:04.472887",
+        "amount": 259.05575905575904,
+        "node": "ee2c962e-8d89-44f6-9f27-209be9f249b1",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:12.452547",
+        "amount": 20.0,
+        "node": "20a2df4f-2f89-4e62-83bc-a0ebc6f3f18e",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:12.452555",
+        "amount": 105.95314850633999,
+        "node": "20a2df4f-2f89-4e62-83bc-a0ebc6f3f18e",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:15.479981",
+        "amount": 20.0,
+        "node": "0282dde8-0909-4621-8997-0485ac406917",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:15.479999",
+        "amount": 325.90766897336243,
+        "node": "0282dde8-0909-4621-8997-0485ac406917",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:16.451583",
+        "amount": 20.0,
+        "node": "b54438bf-bec0-47ca-8a7b-c44cde5645c4",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:16.451597",
+        "amount": 104.81939254575069,
+        "node": "b54438bf-bec0-47ca-8a7b-c44cde5645c4",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:18.450916",
+        "amount": 20.0,
+        "node": "d12a24b9-8853-401c-9a70-25fd9950f937",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:18.450958",
+        "amount": 233.0785008390826,
+        "node": "d12a24b9-8853-401c-9a70-25fd9950f937",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:19.461046",
+        "amount": 20.0,
+        "node": "7d00a503-473d-4ff0-91e5-ddcab6c84cf7",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:19.461062",
+        "amount": 136.86347487734733,
+        "node": "7d00a503-473d-4ff0-91e5-ddcab6c84cf7",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:20.474446",
+        "amount": 20.0,
+        "node": "dcad7fab-31d2-44de-ace9-2120d9545738",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:20.474464",
+        "amount": 239.634703196347,
+        "node": "dcad7fab-31d2-44de-ace9-2120d9545738",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:21.457293",
+        "amount": 20.0,
+        "node": "54beb0f7-ed7f-4ab6-b1e6-ee77730bbce4",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:21.457309",
+        "amount": 197.5925100312082,
+        "node": "54beb0f7-ed7f-4ab6-b1e6-ee77730bbce4",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:44.399359",
+        "amount": 20.0,
+        "node": "3d8e6314-c250-4938-8f7d-eeca531363c9",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:44.399373",
+        "amount": 278.6569538641882,
+        "node": "3d8e6314-c250-4938-8f7d-eeca531363c9",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:45.396837",
+        "amount": 20.0,
+        "node": "df01be32-0dd3-42ff-a0ad-2912e55b173f",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:45.396853",
+        "amount": 176.93773824650572,
+        "node": "df01be32-0dd3-42ff-a0ad-2912e55b173f",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:46.365172",
+        "amount": 20.0,
+        "node": "db7e2c79-a8d3-40ce-9a8a-a3cd243f7e99",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:46.365193",
+        "amount": 111.10301086243348,
+        "node": "db7e2c79-a8d3-40ce-9a8a-a3cd243f7e99",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:46.393863",
+        "amount": 20.0,
+        "node": "5cb252c5-ab8a-4690-8978-79bb66e81ead",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:46.393878",
+        "amount": 206.66858292612818,
+        "node": "5cb252c5-ab8a-4690-8978-79bb66e81ead",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:47.256126",
+        "amount": 20.0,
+        "node": "b3fd94f0-0638-41a8-bc43-6508364503d8",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:47.256143",
+        "amount": 201.8981880931838,
+        "node": "b3fd94f0-0638-41a8-bc43-6508364503d8",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:47.346716",
+        "amount": 20.0,
+        "node": "5ce69b90-2b75-49c5-8eb9-0359c99fd115",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:47.346729",
+        "amount": 132.4861430309585,
+        "node": "5ce69b90-2b75-49c5-8eb9-0359c99fd115",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:47.346841",
+        "amount": 20.0,
+        "node": "6219a2df-b03f-456b-aef6-d423c1210f1b",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:47.346849",
+        "amount": 205.38273331003148,
+        "node": "6219a2df-b03f-456b-aef6-d423c1210f1b",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:47.362360",
+        "amount": 20.0,
+        "node": "4af12500-2876-4c60-86a7-8717026d0156",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:47.362378",
+        "amount": 300.95778644909547,
+        "node": "4af12500-2876-4c60-86a7-8717026d0156",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:47.389179",
+        "amount": 20.0,
+        "node": "8741c7b6-7cb6-4a39-919d-238121dc1f8c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:47.389192",
+        "amount": 486.93076638282116,
+        "node": "8741c7b6-7cb6-4a39-919d-238121dc1f8c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:47.465635",
+        "amount": 20.0,
+        "node": "b8e4f160-c730-4d55-96a1-a989a6f88ceb",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:47.465652",
+        "amount": 862.554208337021,
+        "node": "b8e4f160-c730-4d55-96a1-a989a6f88ceb",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:48.351587",
+        "amount": 20.0,
+        "node": "ea5d3d8b-6c0f-4c98-8d84-e07aa6419c7c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:48.351603",
+        "amount": 336.6084682264791,
+        "node": "ea5d3d8b-6c0f-4c98-8d84-e07aa6419c7c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:48.379611",
+        "amount": 20.0,
+        "node": "189a3a75-d834-40fe-bc24-5d4937200ffb",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:48.379629",
+        "amount": 112.80051981806368,
+        "node": "189a3a75-d834-40fe-bc24-5d4937200ffb",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:48.391249",
+        "amount": 20.0,
+        "node": "2b3fbb85-0bb0-433b-b42d-b8766f1c8b9b",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:48.391260",
+        "amount": 428.55109592940505,
+        "node": "2b3fbb85-0bb0-433b-b42d-b8766f1c8b9b",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:48.404457",
+        "amount": 20.0,
+        "node": "55519d87-4654-43f2-aad2-b5fe75f00016",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:48.404472",
+        "amount": 783.1785909339159,
+        "node": "55519d87-4654-43f2-aad2-b5fe75f00016",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:49.235923",
+        "amount": 20.0,
+        "node": "2a77e043-18bd-42e4-a71b-c8d331af5ff7",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:49.235939",
+        "amount": 220.89587519205767,
+        "node": "2a77e043-18bd-42e4-a71b-c8d331af5ff7",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:49.349519",
+        "amount": 20.0,
+        "node": "1c0186a8-aeeb-4990-9410-1b9a1c2bdaf8",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:49.349534",
+        "amount": 418.1369759059003,
+        "node": "1c0186a8-aeeb-4990-9410-1b9a1c2bdaf8",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:49.384470",
+        "amount": 20.0,
+        "node": "c4820985-4395-4fba-a0c1-11d791761b4c",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:49.384486",
+        "amount": 1009.4443569966944,
+        "node": "c4820985-4395-4fba-a0c1-11d791761b4c",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:50.232648",
+        "amount": 20.0,
+        "node": "1ac52dd7-255e-4dc4-8ae6-4cd2fca20146",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:50.232666",
+        "amount": 225.85715117294373,
+        "node": "1ac52dd7-255e-4dc4-8ae6-4cd2fca20146",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:50.372452",
+        "amount": 20.0,
+        "node": "5fef0f92-5795-4199-83bd-7f539cc8b458",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:50.372467",
+        "amount": 749.0288568257492,
+        "node": "5fef0f92-5795-4199-83bd-7f539cc8b458",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:51.216006",
+        "amount": 20.0,
+        "node": "88c73ea3-ebc5-48ab-88f6-47dd52b704c9",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:51.216022",
+        "amount": 230.1111111111111,
+        "node": "88c73ea3-ebc5-48ab-88f6-47dd52b704c9",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:51.247717",
+        "amount": 20.0,
+        "node": "75c96e78-8e30-4ce7-9797-0d9a87482337",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:51.247733",
+        "amount": 508.40467412360175,
+        "node": "75c96e78-8e30-4ce7-9797-0d9a87482337",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:51.348891",
+        "amount": 20.0,
+        "node": "393e818e-a3bd-4921-8653-d51f8e445b67",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:51.348905",
+        "amount": 815.3405213593558,
+        "node": "393e818e-a3bd-4921-8653-d51f8e445b67",
+        "descr": "profit for sales"
+      },
+      {
+        "time": "2022-06-19 23:25:52.210627",
+        "amount": 20.0,
+        "node": "136ff0f8-7d8f-4fbb-ba9a-e8b868c2d486",
+        "descr": "returned initial capital for transaction"
+      },
+      {
+        "time": "2022-06-19 23:25:52.210644",
+        "amount": 454.5291479820628,
+        "node": "136ff0f8-7d8f-4fbb-ba9a-e8b868c2d486",
+        "descr": "profit for sales"
+      }
+    ]
+  }
+  

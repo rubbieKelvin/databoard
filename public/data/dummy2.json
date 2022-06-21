@@ -1,0 +1,1203 @@
+[
+    {
+      "id": "88c73ea3-ebc5-48ab-88f6-47dd52b704c9",
+      "trx": {
+        "time": "2022-06-19 23:23:16.015055",
+        "bitcoin_price": 18000,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:16.015072",
+      "sell_time": "2022-06-19 23:25:51.216028"
+    },
+    {
+      "id": "136ff0f8-7d8f-4fbb-ba9a-e8b868c2d486",
+      "trx": {
+        "time": "2022-06-19 23:23:17.020529",
+        "bitcoin_price": 16725,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:17.020582",
+      "sell_time": "2022-06-19 23:25:52.210649"
+    },
+    {
+      "id": "558867b4-1321-4ec4-b304-eadd3e27fabe",
+      "trx": {
+        "time": "2022-06-19 23:23:18.024799",
+        "bitcoin_price": 16383,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:18.024854",
+      "sell_time": "2022-06-19 23:23:18.025342"
+    },
+    {
+      "id": "2a77e043-18bd-42e4-a71b-c8d331af5ff7",
+      "trx": {
+        "time": "2022-06-19 23:23:19.030896",
+        "bitcoin_price": 16922,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:19.030961",
+      "sell_time": "2022-06-19 23:25:49.235945"
+    },
+    {
+      "id": "1ac52dd7-255e-4dc4-8ae6-4cd2fca20146",
+      "trx": {
+        "time": "2022-06-19 23:23:20.036760",
+        "bitcoin_price": 17179,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:20.036814",
+      "sell_time": "2022-06-19 23:25:50.232671"
+    },
+    {
+      "id": "75c96e78-8e30-4ce7-9797-0d9a87482337",
+      "trx": {
+        "time": "2022-06-19 23:23:21.044510",
+        "bitcoin_price": 16003,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:21.044608",
+      "sell_time": "2022-06-19 23:25:51.247739"
+    },
+    {
+      "id": "b3fd94f0-0638-41a8-bc43-6508364503d8",
+      "trx": {
+        "time": "2022-06-19 23:23:22.050582",
+        "bitcoin_price": 15067,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:22.050633",
+      "sell_time": "2022-06-19 23:25:47.256149"
+    },
+    {
+      "id": "dd2b6685-5d20-4a9d-9be3-17c7c7f09bef",
+      "trx": {
+        "time": "2022-06-19 23:23:23.056313",
+        "bitcoin_price": 14158,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:23.056403",
+      "sell_time": "2022-06-19 23:23:48.076468"
+    },
+    {
+      "id": "93b57b01-3faa-4188-90fb-afd239c4e6eb",
+      "trx": {
+        "time": "2022-06-19 23:23:24.062369",
+        "bitcoin_price": 13077,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:24.062478",
+      "sell_time": "2022-06-19 23:23:49.081757"
+    },
+    {
+      "id": "3b8a5a9e-bc51-4f71-838a-a4361c46b079",
+      "trx": {
+        "time": "2022-06-19 23:23:25.068385",
+        "bitcoin_price": 12381,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:25.068479",
+      "sell_time": "2022-06-19 23:23:50.088680"
+    },
+    {
+      "id": "6ee7c618-6def-4e6a-9ea6-50fe4ff6da7a",
+      "trx": {
+        "time": "2022-06-19 23:23:26.074328",
+        "bitcoin_price": 11518,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:26.074401",
+      "sell_time": "2022-06-19 23:23:41.077108"
+    },
+    {
+      "id": "266c56ee-305d-4e02-8940-45e632eb631e",
+      "trx": {
+        "time": "2022-06-19 23:23:27.076689",
+        "bitcoin_price": 10111,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:27.076791",
+      "sell_time": "2022-06-19 23:23:42.090702"
+    },
+    {
+      "id": "118a7f0f-e5ec-403a-88ab-7c07d809c2ea",
+      "trx": {
+        "time": "2022-06-19 23:23:28.082527",
+        "bitcoin_price": 10714,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:28.082585",
+      "sell_time": "2022-06-19 23:23:43.091157"
+    },
+    {
+      "id": "d01f5b5d-8b36-4a81-9a02-f700bd3c5c1b",
+      "trx": {
+        "time": "2022-06-19 23:23:29.083698",
+        "bitcoin_price": 8709,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:29.083784",
+      "sell_time": "2022-06-19 23:23:34.089485"
+    },
+    {
+      "id": "06b69272-9040-4968-96ad-c8737e18a3ec",
+      "trx": {
+        "time": "2022-06-19 23:23:30.089732",
+        "bitcoin_price": 8011,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:30.089812",
+      "sell_time": "2022-06-19 23:23:35.095645"
+    },
+    {
+      "id": "1a1c84fc-0fed-41c9-baf8-9720293a7c42",
+      "trx": {
+        "time": "2022-06-19 23:23:31.095662",
+        "bitcoin_price": 7556,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:31.095728",
+      "sell_time": "2022-06-19 23:23:36.097654"
+    },
+    {
+      "id": "9daabc63-c96b-4192-a191-a78a9a792098",
+      "trx": {
+        "time": "2022-06-19 23:23:32.101516",
+        "bitcoin_price": 8588,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:32.101571",
+      "sell_time": "2022-06-19 23:23:37.107072"
+    },
+    {
+      "id": "55790851-0112-4db4-a248-b08cb3d7ff95",
+      "trx": {
+        "time": "2022-06-19 23:23:33.107330",
+        "bitcoin_price": 10078,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:33.107389",
+      "sell_time": "2022-06-19 23:23:43.112642"
+    },
+    {
+      "id": "5013c696-8b62-4b2c-8b4e-eb2546402b6e",
+      "trx": {
+        "time": "2022-06-19 23:23:34.113280",
+        "bitcoin_price": 11781,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:34.113345",
+      "sell_time": "2022-06-19 23:23:44.121465"
+    },
+    {
+      "id": "5a68088e-9b23-4ed4-af50-80f1f8423043",
+      "trx": {
+        "time": "2022-06-19 23:23:35.119186",
+        "bitcoin_price": 10577,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:35.119259",
+      "sell_time": "2022-06-19 23:23:40.124836"
+    },
+    {
+      "id": "9cffa9b2-06ca-4ce6-b582-67040ef82a62",
+      "trx": {
+        "time": "2022-06-19 23:23:36.124941",
+        "bitcoin_price": 10101,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:36.125009",
+      "sell_time": "2022-06-19 23:23:41.129428"
+    },
+    {
+      "id": "133e1ee6-439b-4bda-b647-83a95490a3a1",
+      "trx": {
+        "time": "2022-06-19 23:23:37.130657",
+        "bitcoin_price": 10216,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:37.130714",
+      "sell_time": "2022-06-19 23:23:42.136110"
+    },
+    {
+      "id": "e3c623bc-ac78-4de0-995f-5eaeccc8964e",
+      "trx": {
+        "time": "2022-06-19 23:23:38.136353",
+        "bitcoin_price": 10834,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:38.136462",
+      "sell_time": "2022-06-19 23:23:43.141960"
+    },
+    {
+      "id": "34da3a05-c604-4df3-9ee1-e45bb70cc9a7",
+      "trx": {
+        "time": "2022-06-19 23:23:39.138153",
+        "bitcoin_price": 11445,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:39.138442",
+      "sell_time": "2022-06-19 23:23:44.144241"
+    },
+    {
+      "id": "16f2a10e-6a13-4ef7-a231-5068fb54e65d",
+      "trx": {
+        "time": "2022-06-19 23:23:40.139137",
+        "bitcoin_price": 11923,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:40.139238",
+      "sell_time": "2022-06-19 23:23:50.144938"
+    },
+    {
+      "id": "203bcc65-4e1d-4b88-8558-047eb4a440e9",
+      "trx": {
+        "time": "2022-06-19 23:23:41.140563",
+        "bitcoin_price": 12774,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:41.140687",
+      "sell_time": "2022-06-19 23:23:51.234631"
+    },
+    {
+      "id": "2261d04b-2c1e-4aa1-a117-53875732a277",
+      "trx": {
+        "time": "2022-06-19 23:23:42.141613",
+        "bitcoin_price": 10623,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:42.141665",
+      "sell_time": "2022-06-19 23:23:42.141968"
+    },
+    {
+      "id": "26bad765-78a8-4112-906b-92dd914435d9",
+      "trx": {
+        "time": "2022-06-19 23:23:43.144897",
+        "bitcoin_price": 11734,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:43.144977",
+      "sell_time": "2022-06-19 23:23:48.147240"
+    },
+    {
+      "id": "0cbd3c93-3b9e-45d3-98c0-48eb3650dbdf",
+      "trx": {
+        "time": "2022-06-19 23:23:44.148853",
+        "bitcoin_price": 13059,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:44.148915",
+      "sell_time": "2022-06-19 23:23:49.149543"
+    },
+    {
+      "id": "60b011f7-fd1f-44ac-b097-21c6b0be4ada",
+      "trx": {
+        "time": "2022-06-19 23:23:45.152730",
+        "bitcoin_price": 11926,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:45.152794",
+      "sell_time": "2022-06-19 23:23:50.156229"
+    },
+    {
+      "id": "f8b4b02b-f3b3-418f-b4a8-968f07e852a6",
+      "trx": {
+        "time": "2022-06-19 23:23:46.158422",
+        "bitcoin_price": 12685,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:46.158493",
+      "sell_time": "2022-06-19 23:23:46.158757"
+    },
+    {
+      "id": "5ce69b90-2b75-49c5-8eb9-0359c99fd115",
+      "trx": {
+        "time": "2022-06-19 23:23:47.164341",
+        "bitcoin_price": 14794,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:47.164408",
+      "sell_time": "2022-06-19 23:25:47.346734"
+    },
+    {
+      "id": "ea5d3d8b-6c0f-4c98-8d84-e07aa6419c7c",
+      "trx": {
+        "time": "2022-06-19 23:23:48.165307",
+        "bitcoin_price": 14147,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:48.165371",
+      "sell_time": "2022-06-19 23:25:48.351608"
+    },
+    {
+      "id": "e3a4297a-70af-4049-b0bb-cc53d1390c57",
+      "trx": {
+        "time": "2022-06-19 23:23:49.165802",
+        "bitcoin_price": 14680,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:49.165878",
+      "sell_time": "2022-06-19 23:23:54.249398"
+    },
+    {
+      "id": "5fd3c713-2820-425d-8b04-9813e33ba39c",
+      "trx": {
+        "time": "2022-06-19 23:23:50.167206",
+        "bitcoin_price": 13493,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:50.167275",
+      "sell_time": "2022-06-19 23:23:55.255976"
+    },
+    {
+      "id": "393e818e-a3bd-4921-8653-d51f8e445b67",
+      "trx": {
+        "time": "2022-06-19 23:23:51.256090",
+        "bitcoin_price": 14654,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:51.256131",
+      "sell_time": "2022-06-19 23:25:51.348911"
+    },
+    {
+      "id": "6219a2df-b03f-456b-aef6-d423c1210f1b",
+      "trx": {
+        "time": "2022-06-19 23:23:52.260174",
+        "bitcoin_price": 14305,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:52.260203",
+      "sell_time": "2022-06-19 23:25:47.346852"
+    },
+    {
+      "id": "189a3a75-d834-40fe-bc24-5d4937200ffb",
+      "trx": {
+        "time": "2022-06-19 23:23:53.265552",
+        "bitcoin_price": 15390,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:53.265599",
+      "sell_time": "2022-06-19 23:25:48.379635"
+    },
+    {
+      "id": "1c0186a8-aeeb-4990-9410-1b9a1c2bdaf8",
+      "trx": {
+        "time": "2022-06-19 23:23:54.268102",
+        "bitcoin_price": 15813,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:54.268163",
+      "sell_time": "2022-06-19 23:25:49.349539"
+    },
+    {
+      "id": "5fef0f92-5795-4199-83bd-7f539cc8b458",
+      "trx": {
+        "time": "2022-06-19 23:23:55.273781",
+        "bitcoin_price": 14416,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:55.273860",
+      "sell_time": "2022-06-19 23:25:50.372471"
+    },
+    {
+      "id": "db7e2c79-a8d3-40ce-9a8a-a3cd243f7e99",
+      "trx": {
+        "time": "2022-06-19 23:23:56.279765",
+        "bitcoin_price": 13717,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:56.279845",
+      "sell_time": "2022-06-19 23:25:46.365204"
+    },
+    {
+      "id": "4af12500-2876-4c60-86a7-8717026d0156",
+      "trx": {
+        "time": "2022-06-19 23:23:57.285513",
+        "bitcoin_price": 14095,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:57.285566",
+      "sell_time": "2022-06-19 23:25:47.362382"
+    },
+    {
+      "id": "2b3fbb85-0bb0-433b-b42d-b8766f1c8b9b",
+      "trx": {
+        "time": "2022-06-19 23:23:58.291222",
+        "bitcoin_price": 14052,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:58.291285",
+      "sell_time": "2022-06-19 23:25:48.391264"
+    },
+    {
+      "id": "c4820985-4395-4fba-a0c1-11d791761b4c",
+      "trx": {
+        "time": "2022-06-19 23:23:59.297172",
+        "bitcoin_price": 12706,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:23:59.297246",
+      "sell_time": "2022-06-19 23:25:49.384491"
+    },
+    {
+      "id": "df01be32-0dd3-42ff-a0ad-2912e55b173f",
+      "trx": {
+        "time": "2022-06-19 23:24:00.302959",
+        "bitcoin_price": 12592,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:00.303052",
+      "sell_time": "2022-06-19 23:25:45.396859"
+    },
+    {
+      "id": "5cb252c5-ab8a-4690-8978-79bb66e81ead",
+      "trx": {
+        "time": "2022-06-19 23:24:01.308779",
+        "bitcoin_price": 13916,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:01.308850",
+      "sell_time": "2022-06-19 23:25:46.393883"
+    },
+    {
+      "id": "8741c7b6-7cb6-4a39-919d-238121dc1f8c",
+      "trx": {
+        "time": "2022-06-19 23:24:02.312888",
+        "bitcoin_price": 13505,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:02.312990",
+      "sell_time": "2022-06-19 23:25:47.389196"
+    },
+    {
+      "id": "55519d87-4654-43f2-aad2-b5fe75f00016",
+      "trx": {
+        "time": "2022-06-19 23:24:03.318693",
+        "bitcoin_price": 12817,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:03.318780",
+      "sell_time": "2022-06-19 23:25:48.404478"
+    },
+    {
+      "id": "3d8e6314-c250-4938-8f7d-eeca531363c9",
+      "trx": {
+        "time": "2022-06-19 23:24:04.324543",
+        "bitcoin_price": 11943,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:04.324625",
+      "sell_time": "2022-06-19 23:25:44.399378"
+    },
+    {
+      "id": "f09886f7-24c0-4021-841b-eeb6fa7f075c",
+      "trx": {
+        "time": "2022-06-19 23:24:05.326953",
+        "bitcoin_price": 10888,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:05.327051",
+      "sell_time": "2022-06-19 23:24:05.327390"
+    },
+    {
+      "id": "370f2c60-04ac-4cf3-a83c-36aa4fae2ad9",
+      "trx": {
+        "time": "2022-06-19 23:24:06.332771",
+        "bitcoin_price": 9654,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:06.332936",
+      "sell_time": "2022-06-19 23:24:21.349118"
+    },
+    {
+      "id": "e30378f3-3a90-4bcb-bd9a-121367542a53",
+      "trx": {
+        "time": "2022-06-19 23:24:07.338611",
+        "bitcoin_price": 5998,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:07.338701",
+      "sell_time": "2022-06-19 23:24:22.355183"
+    },
+    {
+      "id": "d7165e2f-f75a-4329-b441-1823863a1c4f",
+      "trx": {
+        "time": "2022-06-19 23:24:08.344392",
+        "bitcoin_price": 6231,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:08.344485",
+      "sell_time": "2022-06-19 23:24:23.356024"
+    },
+    {
+      "id": "7968c7a2-f847-45c9-878a-a99b02fdddc5",
+      "trx": {
+        "time": "2022-06-19 23:24:09.347185",
+        "bitcoin_price": 5797,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:09.347261",
+      "sell_time": "2022-06-19 23:24:19.357957"
+    },
+    {
+      "id": "c9d3b6e3-5aea-4616-ab5c-ef873d98d312",
+      "trx": {
+        "time": "2022-06-19 23:24:10.348258",
+        "bitcoin_price": 5629,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:10.348312",
+      "sell_time": "2022-06-19 23:24:20.352572"
+    },
+    {
+      "id": "a49f8037-08e3-4bcf-884e-2c42fb0a6ac0",
+      "trx": {
+        "time": "2022-06-19 23:24:11.353652",
+        "bitcoin_price": 6240,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:11.353764",
+      "sell_time": "2022-06-19 23:24:21.364466"
+    },
+    {
+      "id": "98d9ac6c-372e-47cd-8d08-d1a608f23cff",
+      "trx": {
+        "time": "2022-06-19 23:24:12.359084",
+        "bitcoin_price": 4462,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:12.359135",
+      "sell_time": "2022-06-19 23:24:22.363987"
+    },
+    {
+      "id": "9dd1d151-12d9-4518-98ac-0d5fccd1c28f",
+      "trx": {
+        "time": "2022-06-19 23:24:13.364565",
+        "bitcoin_price": 4289,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:13.364679",
+      "sell_time": "2022-06-19 23:24:13.365254"
+    },
+    {
+      "id": "c88d071f-38ee-4026-8756-743310b83bdf",
+      "trx": {
+        "time": "2022-06-19 23:24:14.369760",
+        "bitcoin_price": 1785,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:14.369818",
+      "sell_time": "2022-06-19 23:24:14.370097"
+    },
+    {
+      "id": "0d7817a1-ef99-4cef-a1ad-9924b4158823",
+      "trx": {
+        "time": "2022-06-19 23:24:15.375208",
+        "bitcoin_price": 3777,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:15.375296",
+      "sell_time": "2022-06-19 23:24:20.380836"
+    },
+    {
+      "id": "864d0c92-d595-4051-acbb-7b4cae4ffc3c",
+      "trx": {
+        "time": "2022-06-19 23:24:16.380476",
+        "bitcoin_price": 4,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:16.380546",
+      "sell_time": "2022-06-19 23:24:21.384146"
+    },
+    {
+      "id": "fce4eece-4787-4f57-98df-f5822b280c2b",
+      "trx": {
+        "time": "2022-06-19 23:24:17.385427",
+        "bitcoin_price": 3779,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:17.385506",
+      "sell_time": "2022-06-19 23:24:17.386009"
+    },
+    {
+      "id": "9fcc6ea0-bc1f-43ae-9317-7cc7e09cfd11",
+      "trx": {
+        "time": "2022-06-19 23:24:18.390605",
+        "bitcoin_price": 6861,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:18.390692",
+      "sell_time": "2022-06-19 23:24:23.395572"
+    },
+    {
+      "id": "2f50ef13-d5e2-4d0c-be45-1f8192a5bbc3",
+      "trx": {
+        "time": "2022-06-19 23:24:19.392927",
+        "bitcoin_price": 8840,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:19.393012",
+      "sell_time": "2022-06-19 23:24:24.398714"
+    },
+    {
+      "id": "05e6e8fd-06b4-4790-8968-12de54b0661c",
+      "trx": {
+        "time": "2022-06-19 23:24:20.397612",
+        "bitcoin_price": 9016,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:20.397647",
+      "sell_time": "2022-06-19 23:24:25.401875"
+    },
+    {
+      "id": "54beb0f7-ed7f-4ab6-b1e6-ee77730bbce4",
+      "trx": {
+        "time": "2022-06-19 23:24:21.402673",
+        "bitcoin_price": 11215,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:21.402721",
+      "sell_time": "2022-06-19 23:25:21.457315"
+    },
+    {
+      "id": "b8e4f160-c730-4d55-96a1-a989a6f88ceb",
+      "trx": {
+        "time": "2022-06-19 23:24:22.408142",
+        "bitcoin_price": 11299,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:22.408206",
+      "sell_time": "2022-06-19 23:25:47.465658"
+    },
+    {
+      "id": "d12a24b9-8853-401c-9a70-25fd9950f937",
+      "trx": {
+        "time": "2022-06-19 23:24:23.409223",
+        "bitcoin_price": 10726,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:23.409269",
+      "sell_time": "2022-06-19 23:25:18.450967"
+    },
+    {
+      "id": "7d00a503-473d-4ff0-91e5-ddcab6c84cf7",
+      "trx": {
+        "time": "2022-06-19 23:24:24.414446",
+        "bitcoin_price": 11822,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:24.414515",
+      "sell_time": "2022-06-19 23:25:19.461068"
+    },
+    {
+      "id": "dcad7fab-31d2-44de-ace9-2120d9545738",
+      "trx": {
+        "time": "2022-06-19 23:24:25.419833",
+        "bitcoin_price": 10950,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:25.419894",
+      "sell_time": "2022-06-19 23:25:20.474470"
+    },
+    {
+      "id": "b54438bf-bec0-47ca-8a7b-c44cde5645c4",
+      "trx": {
+        "time": "2022-06-19 23:24:26.424896",
+        "bitcoin_price": 10437,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:26.425030",
+      "sell_time": "2022-06-19 23:25:16.451601"
+    },
+    {
+      "id": "20a2df4f-2f89-4e62-83bc-a0ebc6f3f18e",
+      "trx": {
+        "time": "2022-06-19 23:24:27.430190",
+        "bitcoin_price": 9306,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:27.430247",
+      "sell_time": "2022-06-19 23:25:12.452557"
+    },
+    {
+      "id": "5deaf3c1-9315-4692-9d20-e7cd5510ded5",
+      "trx": {
+        "time": "2022-06-19 23:24:28.435620",
+        "bitcoin_price": 8547,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:28.435689",
+      "sell_time": "2022-06-19 23:24:28.436017"
+    },
+    {
+      "id": "ee2c962e-8d89-44f6-9f27-209be9f249b1",
+      "trx": {
+        "time": "2022-06-19 23:24:29.441028",
+        "bitcoin_price": 9828,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:29.441077",
+      "sell_time": "2022-06-19 23:25:04.472894"
+    },
+    {
+      "id": "0282dde8-0909-4621-8997-0485ac406917",
+      "trx": {
+        "time": "2022-06-19 23:24:30.441639",
+        "bitcoin_price": 10549,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:30.441729",
+      "sell_time": "2022-06-19 23:25:15.480005"
+    },
+    {
+      "id": "1d3e7ff3-2a13-4bf5-8cec-c5af53a41bbe",
+      "trx": {
+        "time": "2022-06-19 23:24:31.442512",
+        "bitcoin_price": 8296,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:31.442563",
+      "sell_time": "2022-06-19 23:24:46.454758"
+    },
+    {
+      "id": "ba49f7af-1b16-4f1f-9f92-b260c86d7704",
+      "trx": {
+        "time": "2022-06-19 23:24:32.447797",
+        "bitcoin_price": 6453,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:32.447898",
+      "sell_time": "2022-06-19 23:24:47.451554"
+    },
+    {
+      "id": "a99937ad-1089-4f1e-995a-4d4e68bab8e4",
+      "trx": {
+        "time": "2022-06-19 23:24:33.451605",
+        "bitcoin_price": 5813,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:33.451714",
+      "sell_time": "2022-06-19 23:24:38.457322"
+    },
+    {
+      "id": "ee38fdb6-efa1-412f-a74e-3ed11d19e18e",
+      "trx": {
+        "time": "2022-06-19 23:24:34.456814",
+        "bitcoin_price": 4155,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:34.456891",
+      "sell_time": "2022-06-19 23:24:39.462496"
+    },
+    {
+      "id": "73348b1b-6e32-46cd-9936-8f97cfda6938",
+      "trx": {
+        "time": "2022-06-19 23:24:35.462097",
+        "bitcoin_price": 5908,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:35.462217",
+      "sell_time": "2022-06-19 23:24:35.462614"
+    },
+    {
+      "id": "677097b6-5203-4860-ae68-35613f8db944",
+      "trx": {
+        "time": "2022-06-19 23:24:36.465300",
+        "bitcoin_price": 7321,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:36.465477",
+      "sell_time": "2022-06-19 23:24:46.476706"
+    },
+    {
+      "id": "d438e192-a040-4fd0-9b2c-3c8b92bea567",
+      "trx": {
+        "time": "2022-06-19 23:24:37.468487",
+        "bitcoin_price": 7519,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:37.468549",
+      "sell_time": "2022-06-19 23:24:47.472680"
+    },
+    {
+      "id": "497eb9f9-2954-42a9-a634-c2f248b7ccfb",
+      "trx": {
+        "time": "2022-06-19 23:24:38.473650",
+        "bitcoin_price": 6588,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:38.473737",
+      "sell_time": "2022-06-19 23:24:48.480089"
+    },
+    {
+      "id": "5cef2f15-4d4f-45c2-90d5-b93e61d4db20",
+      "trx": {
+        "time": "2022-06-19 23:24:39.478880",
+        "bitcoin_price": 6067,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:39.479000",
+      "sell_time": "2022-06-19 23:24:49.479993"
+    },
+    {
+      "id": "62c78728-ee3d-4e31-a827-fbfafe7fcb2b",
+      "trx": {
+        "time": "2022-06-19 23:24:40.480145",
+        "bitcoin_price": 3401,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:40.480257",
+      "sell_time": "2022-06-19 23:24:40.480672"
+    },
+    {
+      "id": "8974f14d-1e41-4f3c-88df-cdcae1fa8e10",
+      "trx": {
+        "time": "2022-06-19 23:24:41.486136",
+        "bitcoin_price": 2523,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:41.486214",
+      "sell_time": "2022-06-19 23:24:46.489695"
+    },
+    {
+      "id": "503ece79-4e55-4d32-8ce4-9044ea505dc6",
+      "trx": {
+        "time": "2022-06-19 23:24:42.491954",
+        "bitcoin_price": 2866,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:42.492011",
+      "sell_time": "2022-06-19 23:24:47.494010"
+    },
+    {
+      "id": "2eca43a0-f3e9-48c0-9348-b0491cc11c08",
+      "trx": {
+        "time": "2022-06-19 23:24:43.497797",
+        "bitcoin_price": 1535,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:43.497901",
+      "sell_time": "2022-06-19 23:24:43.498298"
+    },
+    {
+      "id": "e49f8e98-7015-495f-821a-b02207f1fdd3",
+      "trx": {
+        "time": "2022-06-19 23:24:44.503691",
+        "bitcoin_price": 3480,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:44.503795",
+      "sell_time": "2022-06-19 23:24:49.504317"
+    },
+    {
+      "id": "2f09e6f3-2c18-424f-961f-92c21886d502",
+      "trx": {
+        "time": "2022-06-19 23:24:45.509649",
+        "bitcoin_price": 5387,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:45.509751",
+      "sell_time": "2022-06-19 23:24:50.515472"
+    },
+    {
+      "id": "7f149f01-2b35-4d48-ab37-948972253574",
+      "trx": {
+        "time": "2022-06-19 23:24:46.513738",
+        "bitcoin_price": 7844,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:46.513837",
+      "sell_time": "2022-06-19 23:24:46.514223"
+    },
+    {
+      "id": "8a12fe30-9cc7-4f5c-bae0-e3ecd730dcf4",
+      "trx": {
+        "time": "2022-06-19 23:24:47.515245",
+        "bitcoin_price": 7873,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:47.515296",
+      "sell_time": "2022-06-19 23:24:57.526394"
+    },
+    {
+      "id": "3e891f84-ef2c-4054-857d-670d3f71f6ae",
+      "trx": {
+        "time": "2022-06-19 23:24:48.519045",
+        "bitcoin_price": 8397,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:48.519143",
+      "sell_time": "2022-06-19 23:25:03.535899"
+    },
+    {
+      "id": "b8c0cf2c-bece-4a53-b329-bc40e610f31e",
+      "trx": {
+        "time": "2022-06-19 23:24:49.522556",
+        "bitcoin_price": 7018,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:49.522609",
+      "sell_time": "2022-06-19 23:24:59.533590"
+    },
+    {
+      "id": "58f457e7-e753-4275-9215-fb08713cda07",
+      "trx": {
+        "time": "2022-06-19 23:24:50.528197",
+        "bitcoin_price": 6129,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:50.528273",
+      "sell_time": "2022-06-19 23:25:00.536422"
+    },
+    {
+      "id": "08d59523-5bbe-4dac-af14-6999ab6051df",
+      "trx": {
+        "time": "2022-06-19 23:24:51.534100",
+        "bitcoin_price": 5947,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:51.534164",
+      "sell_time": "2022-06-19 23:24:56.536438"
+    },
+    {
+      "id": "6076239f-2df4-4d21-84da-c7689394a944",
+      "trx": {
+        "time": "2022-06-19 23:24:52.540211",
+        "bitcoin_price": 2764,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:52.540259",
+      "sell_time": "2022-06-19 23:24:57.545592"
+    },
+    {
+      "id": "9acc9461-c57c-429b-b6a4-cb84b6e93dcd",
+      "trx": {
+        "time": "2022-06-19 23:24:53.542199",
+        "bitcoin_price": 2997,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:53.542289",
+      "sell_time": "2022-06-19 23:24:53.542695"
+    },
+    {
+      "id": "8c9ba1f3-8ba6-4ce1-821e-4e4e062f1e12",
+      "trx": {
+        "time": "2022-06-19 23:24:54.548136",
+        "bitcoin_price": 4028,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:54.548186",
+      "sell_time": "2022-06-19 23:24:59.549119"
+    },
+    {
+      "id": "239b132f-0135-473e-8964-f24f981a670f",
+      "trx": {
+        "time": "2022-06-19 23:24:55.551232",
+        "bitcoin_price": 5767,
+        "budget_price": 20.0
+      },
+      "force_sold": false,
+      "sales_threshold": 5,
+      "buy_time": "2022-06-19 23:24:55.551317",
+      "sell_time": "2022-06-19 23:25:00.554608"
+    }
+  ]
+  
